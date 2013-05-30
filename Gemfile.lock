@@ -12,8 +12,8 @@ GEM
       addressable (>= 2.3.1)
       extlib (>= 0.9.15)
       multi_json (>= 1.0.0)
-    backports (3.3.0)
-    builder (3.2.0)
+    backports (3.3.1)
+    builder (3.2.1)
     coffee-script (2.2.0)
       coffee-script-source
       execjs
@@ -55,7 +55,7 @@ GEM
       multi_json (>= 1.5)
     launchy (2.3.0)
       addressable (~> 2.3)
-    multi_json (1.7.3)
+    multi_json (1.7.4)
     multipart-post (1.2.0)
     nokogiri (1.5.9)
     nori (2.0.4)
@@ -95,7 +95,7 @@ GEM
       nokogiri
       savon (~> 2.0.2)
       thor
-    sprockets (2.9.3)
+    sprockets (2.10.0)
       hike (~> 1.2)
       multi_json (~> 1.0)
       rack (~> 1.0)
