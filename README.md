@@ -9,8 +9,14 @@ Why Jarvis? Go watch [Iron Man](http://en.wikipedia.org/wiki/Iron_Man_(film\))
 
 Dependencies
 ============
-Use `bundle` to install dependencies. Requires
-[Bundler](http://gembundler.com/).
+Debian packages:
+`aptitude install ruby rubygems libxml2-dev libxslt1-dev nodejs`
+
+[Bundler](http://gembundler.com/):
+`gem install bundler`
+
+Application dependencies:
+`bundle install`
 
 Configuration
 =============
