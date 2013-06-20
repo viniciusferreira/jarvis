@@ -1,3 +1,8 @@
+Deprecated
+==========
+
+Please see [JARVIS 2](https://github.com/martinp/jarvis2).
+
 JARVIS
 ======
 A collection of jobs and widgets for
@@ -10,7 +15,7 @@ Why Jarvis? Go watch [Iron Man](http://en.wikipedia.org/wiki/Iron_Man_(film\))
 Dependencies
 ============
 Debian packages:
-`aptitude install ruby rubygems libxml2-dev libxslt1-dev nodejs`
+`aptitude install ruby ruby-dev rubygems libxml2-dev libxslt1-dev nodejs`
 
 [Bundler](http://gembundler.com/):
 `gem install bundler`
